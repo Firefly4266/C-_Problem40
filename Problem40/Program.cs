@@ -10,6 +10,8 @@ namespace Problem40
     {
         static void Main(string[] args)
         {
+            MyClass40 myClass40 = new MyClass40();
+            myClass40.Problem40();
         }
     }
 }
